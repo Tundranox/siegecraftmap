@@ -1,0 +1,30 @@
+{"sets": {"towny.markerset": {"hide": false,"circles": {}
+,"areas": {"test__0": {"fillcolor": "#8B008B","ytop": 64.00,"color": "#8B008B","markup": false,"x": [400.00,416.00,416.00,400.00]
+,"weight": 3,"z": [-3520.00,-3520.00,-3504.00,-3504.00]
+,"ybottom": 64.00,"label": "test","opacity": 0.80,"fillopacity": 0.35,"desc": "<div><div><span style=\"font-size:120%\">test ()<\/span><br \/> Mayor <span style=\"font-weight:bold\">NPC1<\/span><br \/> Associates <span style=\"font-weight:bold\">NPC1<\/span><br \/>Flags<br \/><span style=\"font-weight:bold\">PVP: Enabled<br \/>Mob Spawns: Enabled<br \/>Explosions: Enabled<br \/>Firespread: Enabled<br \/>Ruined Status Time remaining before full removal: 45 hours.<\/span><\/div><\/div>"}
+}
+,"label": "Towny","markers": {"test__home": {"markup": false,"x": 408.00,"icon": "warning","y": 64.00,"dim": "16x16","z": -3512.00,"label": "test","desc": "<div><div><span style=\"font-size:120%\">test ()<\/span><br \/> Mayor <span style=\"font-weight:bold\">NPC1<\/span><br \/> Associates <span style=\"font-weight:bold\">NPC1<\/span><br \/>Flags<br \/><span style=\"font-weight:bold\">PVP: Enabled<br \/>Mob Spawns: Enabled<br \/>Explosions: Enabled<br \/>Firespread: Enabled<br \/>Ruined Status Time remaining before full removal: 45 hours.<\/span><\/div><\/div>"}
+}
+,"lines": {}
+,"layerprio": 2}
+,"worldborder.markerset": {"hide": false,"circles": {}
+,"areas": {"worldborder_MainWorld": {"fillcolor": "#000000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-12288.00,12172.00]
+,"weight": 3,"z": [-6144.00,6144.00]
+,"ybottom": 64.00,"label": "The border of the world.","opacity": 1.00,"fillopacity": 0.00}
+}
+,"label": "WorldBorder","markers": {}
+,"lines": {}
+,"layerprio": 0}
+,"siegewar.markerset": {"hide": false,"circles": {}
+,"areas": {}
+,"label": "SiegeWar","markers": {}
+,"lines": {}
+,"layerprio": 0}
+,"markers": {"hide": false,"circles": {}
+,"areas": {}
+,"label": "Markers","markers": {"_spawn_MainWorld": {"markup": false,"x": 3072.00,"icon": "world","y": 102.00,"dim": "16x16","z": -1024.00,"label": "Spawn"}
+}
+,"lines": {}
+,"layerprio": 0}
+}
+,"timestamp": 1742186833954}
